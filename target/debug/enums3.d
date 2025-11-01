@@ -1,1 +1,1 @@
-/home/salivala/Projects/learning/rust/rustlings/target/debug/enums3: /home/salivala/Projects/learning/rust/rustlings/exercises/08_enums/enums3.rs
+/home/salivala/Projects/rustlings/target/debug/enums3: /home/salivala/Projects/rustlings/exercises/08_enums/enums3.rs
