@@ -1,0 +1,5 @@
+/home/salivala/Projects/rustlings/target/debug/deps/macros1-46449ddd80407c72.d: exercises/21_macros/macros1.rs
+
+/home/salivala/Projects/rustlings/target/debug/deps/libmacros1-46449ddd80407c72.rmeta: exercises/21_macros/macros1.rs
+
+exercises/21_macros/macros1.rs:

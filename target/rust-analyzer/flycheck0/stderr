@@ -1,5 +1,5 @@
-   0.023305103s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="arc1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "arc1", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/19_smart_pointers/arc1.rs", Edition2024) }
-   0.023316423s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="arc1"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-ca149b27c9080756/test-bin-arc1`
+   0.023119510s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="arc1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "arc1", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/19_smart_pointers/arc1.rs", Edition2024) }
+   0.023136468s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="arc1"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-6391df74b883344b/test-bin-arc1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -24,8 +24,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.026031660s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="arc1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "arc1", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/19_smart_pointers/arc1.rs", Edition2024) }
-   0.026038270s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="arc1"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-664fded5d72609d0/bin-arc1`
+   0.025776149s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="arc1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "arc1", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/19_smart_pointers/arc1.rs", Edition2024) }
+   0.025784079s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="arc1"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-1d937b9468adb6b6/bin-arc1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -50,8 +50,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.026281344s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="as_ref_mut"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "as_ref_mut", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/23_conversions/as_ref_mut.rs", Edition2024) }
-   0.026287004s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="as_ref_mut"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-146c355ce83a4780/test-bin-as_ref_mut`
+   0.025990505s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="as_ref_mut"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "as_ref_mut", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/23_conversions/as_ref_mut.rs", Edition2024) }
+   0.025995383s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="as_ref_mut"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-651602bb7407b1f6/test-bin-as_ref_mut`
 
 Caused by:
     No such file or directory (os error 2)
@@ -76,8 +76,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.026417966s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="as_ref_mut"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "as_ref_mut", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/23_conversions/as_ref_mut.rs", Edition2024) }
-   0.026423546s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="as_ref_mut"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-3907fd812f086155/bin-as_ref_mut`
+   0.026107142s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="as_ref_mut"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "as_ref_mut", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/23_conversions/as_ref_mut.rs", Edition2024) }
+   0.026110518s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="as_ref_mut"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-0369e2da8aa7a576/bin-as_ref_mut`
 
 Caused by:
     No such file or directory (os error 2)
@@ -102,8 +102,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.026648910s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="box1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "box1", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/19_smart_pointers/box1.rs", Edition2024) }
-   0.026654371s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="box1"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-8ef9ace67fab18eb/test-bin-box1`
+   0.026261314s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="box1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "box1", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/19_smart_pointers/box1.rs", Edition2024) }
+   0.026264924s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="box1"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-90a02e2f6f05f35c/test-bin-box1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -128,8 +128,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.026778503s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="box1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "box1", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/19_smart_pointers/box1.rs", Edition2024) }
-   0.026783393s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="box1"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-510402cf1fdcfa94/bin-box1`
+   0.026358012s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="box1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "box1", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/19_smart_pointers/box1.rs", Edition2024) }
+   0.026361760s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="box1"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-be2ad576f183893e/bin-box1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -154,8 +154,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.027549896s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="cow1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "cow1", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/19_smart_pointers/cow1.rs", Edition2024) }
-   0.027555576s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="cow1"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-0f9a7af74d7a34c0/test-bin-cow1`
+   0.026800788s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="cow1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "cow1", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/19_smart_pointers/cow1.rs", Edition2024) }
+   0.026804544s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="cow1"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-ea1d10b35cb21132/test-bin-cow1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -180,8 +180,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.028674325s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="errors1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "errors1", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/13_error_handling/errors1.rs", Edition2024) }
-   0.028680986s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="errors1"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-b1a68b5ade7830b0/test-bin-errors1`
+   0.027267556s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="errors1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "errors1", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/13_error_handling/errors1.rs", Edition2024) }
+   0.027271486s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="errors1"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-16e25cbe240c1434/test-bin-errors1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -206,8 +206,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.028963700s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="errors2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "errors2", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/13_error_handling/errors2.rs", Edition2024) }
-   0.028969191s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="errors2"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-152cdc93d69fe844/test-bin-errors2`
+   0.027439088s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="errors2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "errors2", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/13_error_handling/errors2.rs", Edition2024) }
+   0.027442585s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="errors2"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-77a1df191e37d98e/test-bin-errors2`
 
 Caused by:
     No such file or directory (os error 2)
@@ -232,8 +232,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.029096143s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="errors2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "errors2", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/13_error_handling/errors2.rs", Edition2024) }
-   0.029101013s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="errors2"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-f86ec8f2da4cb2a1/bin-errors2`
+   0.027530956s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="errors2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "errors2", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/13_error_handling/errors2.rs", Edition2024) }
+   0.027533758s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="errors2"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-ba21d1b6475cf374/bin-errors2`
 
 Caused by:
     No such file or directory (os error 2)
@@ -258,8 +258,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.029330517s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="errors3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "errors3", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/13_error_handling/errors3.rs", Edition2024) }
-   0.029335847s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="errors3"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-9b1023c41beb288e/test-bin-errors3`
+   0.027664224s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="errors3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "errors3", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/13_error_handling/errors3.rs", Edition2024) }
+   0.027666942s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="errors3"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-462bb4cc4bcf0f58/test-bin-errors3`
 
 Caused by:
     No such file or directory (os error 2)
@@ -284,8 +284,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.029461259s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="errors3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "errors3", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/13_error_handling/errors3.rs", Edition2024) }
-   0.029466119s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="errors3"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-e0576a64aebdd0ff/bin-errors3`
+   0.027741818s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="errors3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "errors3", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/13_error_handling/errors3.rs", Edition2024) }
+   0.027744852s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="errors3"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-e0dc332fe0d2c9f2/bin-errors3`
 
 Caused by:
     No such file or directory (os error 2)
@@ -310,8 +310,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.029884056s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="errors5"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "errors5", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/13_error_handling/errors5.rs", Edition2024) }
-   0.029889676s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="errors5"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-2c1e5713b1619719/test-bin-errors5`
+   0.027962596s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="errors5"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "errors5", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/13_error_handling/errors5.rs", Edition2024) }
+   0.027965863s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="errors5"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-971597542a5ee7e5/test-bin-errors5`
 
 Caused by:
     No such file or directory (os error 2)
@@ -336,8 +336,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.030018959s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="errors5"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "errors5", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/13_error_handling/errors5.rs", Edition2024) }
-   0.030023819s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="errors5"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-aac8b687f89300a3/bin-errors5`
+   0.028058275s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="errors5"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "errors5", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/13_error_handling/errors5.rs", Edition2024) }
+   0.028061274s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="errors5"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-059514ac28c7bbdb/bin-errors5`
 
 Caused by:
     No such file or directory (os error 2)
@@ -362,8 +362,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.030418115s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="from_into"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "from_into", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/23_conversions/from_into.rs", Edition2024) }
-   0.030423616s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="from_into"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-d31522c6f707d947/test-bin-from_into`
+   0.028327082s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="from_into"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "from_into", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/23_conversions/from_into.rs", Edition2024) }
+   0.028330419s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="from_into"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-dcca8fbef9ee6645/test-bin-from_into`
 
 Caused by:
     No such file or directory (os error 2)
@@ -388,8 +388,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.030545508s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="from_into"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "from_into", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/23_conversions/from_into.rs", Edition2024) }
-   0.030550288s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="from_into"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-b02735503ecca777/bin-from_into`
+   0.028410981s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="from_into"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "from_into", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/23_conversions/from_into.rs", Edition2024) }
+   0.028413920s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="from_into"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-6e37ff928a5dd30e/bin-from_into`
 
 Caused by:
     No such file or directory (os error 2)
@@ -414,8 +414,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.030764542s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="from_str"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "from_str", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/23_conversions/from_str.rs", Edition2024) }
-   0.030769692s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="from_str"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-b3031be9558be574/test-bin-from_str`
+   0.028531015s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="from_str"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "from_str", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/23_conversions/from_str.rs", Edition2024) }
+   0.028533886s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="from_str"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-d68644fb7b064abb/test-bin-from_str`
 
 Caused by:
     No such file or directory (os error 2)
@@ -440,8 +440,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.030887274s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="from_str"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "from_str", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/23_conversions/from_str.rs", Edition2024) }
-   0.030892344s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="from_str"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-38e556f48c891aaf/bin-from_str`
+   0.028609624s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="from_str"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "from_str", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/23_conversions/from_str.rs", Edition2024) }
+   0.028612228s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="from_str"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-8cf1bbe1b99222bf/bin-from_str`
 
 Caused by:
     No such file or directory (os error 2)
@@ -466,8 +466,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.032000883s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="generics1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "generics1", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/14_generics/generics1.rs", Edition2024) }
-   0.032006463s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="generics1"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-dafe8b6c76bd56ca/test-bin-generics1`
+   0.029224307s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="generics1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "generics1", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/14_generics/generics1.rs", Edition2024) }
+   0.029227753s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="generics1"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-cd1815dd78e71014/test-bin-generics1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -492,8 +492,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.032132615s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="generics1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "generics1", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/14_generics/generics1.rs", Edition2024) }
-   0.032137505s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="generics1"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-036ac4e7b6aaa552/bin-generics1`
+   0.029299358s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="generics1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "generics1", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/14_generics/generics1.rs", Edition2024) }
+   0.029302234s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="generics1"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-0342622d0e13d224/bin-generics1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -518,8 +518,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.032360189s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="generics2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "generics2", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/14_generics/generics2.rs", Edition2024) }
-   0.032365589s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="generics2"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-fed73152e2937bc9/test-bin-generics2`
+   0.029440178s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="generics2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "generics2", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/14_generics/generics2.rs", Edition2024) }
+   0.029443650s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="generics2"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-ea62f2c3af94b4ac/test-bin-generics2`
 
 Caused by:
     No such file or directory (os error 2)
@@ -544,8 +544,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.032624784s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="hashmaps1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "hashmaps1", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/11_hashmaps/hashmaps1.rs", Edition2024) }
-   0.032629654s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="hashmaps1"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-cd83622c0bfbcfb2/test-bin-hashmaps1`
+   0.029604626s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="hashmaps1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "hashmaps1", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/11_hashmaps/hashmaps1.rs", Edition2024) }
+   0.029607906s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="hashmaps1"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-f1a62a279d042ebf/test-bin-hashmaps1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -570,8 +570,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.032759096s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="hashmaps1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "hashmaps1", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/11_hashmaps/hashmaps1.rs", Edition2024) }
-   0.032764136s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="hashmaps1"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-cf97b22aad0033ac/bin-hashmaps1`
+   0.029675232s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="hashmaps1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "hashmaps1", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/11_hashmaps/hashmaps1.rs", Edition2024) }
+   0.029678124s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="hashmaps1"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-158090dab5451a74/bin-hashmaps1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -596,8 +596,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.034240702s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="iterators1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "iterators1", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/18_iterators/iterators1.rs", Edition2024) }
-   0.034246672s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="iterators1"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-1fec0a2debe0a6ed/test-bin-iterators1`
+   0.030515038s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="iterators1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "iterators1", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/18_iterators/iterators1.rs", Edition2024) }
+   0.030519226s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="iterators1"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-fe387101b0901a37/test-bin-iterators1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -622,8 +622,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.034522157s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="iterators2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "iterators2", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/18_iterators/iterators2.rs", Edition2024) }
-   0.034527467s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="iterators2"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-c832a4082a7333f4/test-bin-iterators2`
+   0.030684343s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="iterators2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "iterators2", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/18_iterators/iterators2.rs", Edition2024) }
+   0.030687772s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="iterators2"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-b8f6f395f65ec6c3/test-bin-iterators2`
 
 Caused by:
     No such file or directory (os error 2)
@@ -648,8 +648,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.034655009s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="iterators2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "iterators2", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/18_iterators/iterators2.rs", Edition2024) }
-   0.034659689s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="iterators2"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-e0fb2a0aead0eff3/bin-iterators2`
+   0.030755389s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="iterators2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "iterators2", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/18_iterators/iterators2.rs", Edition2024) }
+   0.030758102s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="iterators2"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-d8b173b7d59a10d9/bin-iterators2`
 
 Caused by:
     No such file or directory (os error 2)
@@ -674,8 +674,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.034879033s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="iterators3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "iterators3", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/18_iterators/iterators3.rs", Edition2024) }
-   0.034884113s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="iterators3"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-b2858aed9a3e79de/test-bin-iterators3`
+   0.030876597s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="iterators3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "iterators3", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/18_iterators/iterators3.rs", Edition2024) }
+   0.030879472s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="iterators3"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-77f68e09aa43425f/test-bin-iterators3`
 
 Caused by:
     No such file or directory (os error 2)
@@ -700,8 +700,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.035149587s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="iterators4"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "iterators4", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/18_iterators/iterators4.rs", Edition2024) }
-   0.035154537s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="iterators4"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-3e71636a784bd50c/test-bin-iterators4`
+   0.031028588s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="iterators4"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "iterators4", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/18_iterators/iterators4.rs", Edition2024) }
+   0.031033402s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="iterators4"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-ed07377cfff540d5/test-bin-iterators4`
 
 Caused by:
     No such file or directory (os error 2)
@@ -726,8 +726,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.035286600s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="iterators4"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "iterators4", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/18_iterators/iterators4.rs", Edition2024) }
-   0.035292180s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="iterators4"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-68b597fcb885ee00/bin-iterators4`
+   0.031099706s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="iterators4"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "iterators4", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/18_iterators/iterators4.rs", Edition2024) }
+   0.031102419s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="iterators4"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-8ccd6c652af3cc9a/bin-iterators4`
 
 Caused by:
     No such file or directory (os error 2)
@@ -752,8 +752,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.035511854s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="iterators5"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "iterators5", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/18_iterators/iterators5.rs", Edition2024) }
-   0.035516974s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="iterators5"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-f58de5a7ce553da5/test-bin-iterators5`
+   0.031221104s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="iterators5"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "iterators5", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/18_iterators/iterators5.rs", Edition2024) }
+   0.031223828s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="iterators5"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-54c9fd4566cef84b/test-bin-iterators5`
 
 Caused by:
     No such file or directory (os error 2)
@@ -778,8 +778,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.035645496s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="iterators5"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "iterators5", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/18_iterators/iterators5.rs", Edition2024) }
-   0.035650406s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="iterators5"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-414a55af6b1a7aa6/bin-iterators5`
+   0.031290016s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="iterators5"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "iterators5", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/18_iterators/iterators5.rs", Edition2024) }
+   0.031292668s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="iterators5"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-65da9064aa2dbb2b/bin-iterators5`
 
 Caused by:
     No such file or directory (os error 2)
@@ -804,8 +804,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.035870250s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="lifetimes1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "lifetimes1", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/16_lifetimes/lifetimes1.rs", Edition2024) }
-   0.035875250s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="lifetimes1"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-a7b9b5ab16d4b343/test-bin-lifetimes1`
+   0.031424630s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="lifetimes1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "lifetimes1", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/16_lifetimes/lifetimes1.rs", Edition2024) }
+   0.031427722s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="lifetimes1"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-45bdc834f3da7d38/test-bin-lifetimes1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -830,8 +830,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.035998612s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="lifetimes1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "lifetimes1", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/16_lifetimes/lifetimes1.rs", Edition2024) }
-   0.036003402s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="lifetimes1"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-4f92bf09d0b152c1/bin-lifetimes1`
+   0.031492917s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="lifetimes1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "lifetimes1", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/16_lifetimes/lifetimes1.rs", Edition2024) }
+   0.031495696s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="lifetimes1"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-2b93e8c33961dd1e/bin-lifetimes1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -856,8 +856,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.036220676s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="lifetimes2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "lifetimes2", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/16_lifetimes/lifetimes2.rs", Edition2024) }
-   0.036225656s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="lifetimes2"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-51cccc5111e8ea0c/test-bin-lifetimes2`
+   0.031609807s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="lifetimes2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "lifetimes2", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/16_lifetimes/lifetimes2.rs", Edition2024) }
+   0.031612567s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="lifetimes2"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-522c4b767d7d9ef0/test-bin-lifetimes2`
 
 Caused by:
     No such file or directory (os error 2)
@@ -882,8 +882,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.036354348s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="lifetimes2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "lifetimes2", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/16_lifetimes/lifetimes2.rs", Edition2024) }
-   0.036359258s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="lifetimes2"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-dde2cba09d37cc12/bin-lifetimes2`
+   0.031673059s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="lifetimes2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "lifetimes2", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/16_lifetimes/lifetimes2.rs", Edition2024) }
+   0.031675544s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="lifetimes2"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-83d59128b04b917e/bin-lifetimes2`
 
 Caused by:
     No such file or directory (os error 2)
@@ -908,8 +908,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.036576592s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="lifetimes3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "lifetimes3", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/16_lifetimes/lifetimes3.rs", Edition2024) }
-   0.036581612s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="lifetimes3"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-b7bcc07e64a17087/test-bin-lifetimes3`
+   0.031786906s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="lifetimes3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "lifetimes3", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/16_lifetimes/lifetimes3.rs", Edition2024) }
+   0.031789487s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="lifetimes3"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-9871f398a303c664/test-bin-lifetimes3`
 
 Caused by:
     No such file or directory (os error 2)
@@ -934,8 +934,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.036704944s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="lifetimes3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "lifetimes3", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/16_lifetimes/lifetimes3.rs", Edition2024) }
-   0.036709534s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="lifetimes3"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-0384ae68207c545e/bin-lifetimes3`
+   0.031850674s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="lifetimes3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "lifetimes3", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/16_lifetimes/lifetimes3.rs", Edition2024) }
+   0.031853184s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="lifetimes3"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-31bd078623abccd1/bin-lifetimes3`
 
 Caused by:
     No such file or directory (os error 2)
@@ -960,8 +960,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.036924448s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="macros1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "macros1", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/21_macros/macros1.rs", Edition2024) }
-   0.036929368s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="macros1"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-6fbeb892249e972d/test-bin-macros1`
+   0.031970063s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="macros1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "macros1", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/21_macros/macros1.rs", Edition2024) }
+   0.031973159s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="macros1"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-46449ddd80407c72/test-bin-macros1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -986,8 +986,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.037051920s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="macros1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "macros1", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/21_macros/macros1.rs", Edition2024) }
-   0.037056520s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="macros1"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-9f0e37cea98b06ef/bin-macros1`
+   0.032037106s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="macros1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "macros1", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/21_macros/macros1.rs", Edition2024) }
+   0.032039842s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="macros1"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-164f51cffa1dd0bf/bin-macros1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1012,8 +1012,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.037285094s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="macros2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "macros2", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/21_macros/macros2.rs", Edition2024) }
-   0.037290524s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="macros2"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-e57ab20443c8bcfc/test-bin-macros2`
+   0.032156449s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="macros2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "macros2", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/21_macros/macros2.rs", Edition2024) }
+   0.032159202s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="macros2"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-e0905af39bdd3d94/test-bin-macros2`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1038,8 +1038,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.037412946s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="macros2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "macros2", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/21_macros/macros2.rs", Edition2024) }
-   0.037419587s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="macros2"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-8df503e3c9d385cd/bin-macros2`
+   0.032225218s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="macros2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "macros2", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/21_macros/macros2.rs", Edition2024) }
+   0.032227899s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="macros2"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-dbef2284b2ed2dd8/bin-macros2`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1064,8 +1064,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.037638130s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="macros3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "macros3", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/21_macros/macros3.rs", Edition2024) }
-   0.037642830s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="macros3"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-d07977960baaafbb/test-bin-macros3`
+   0.032367199s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="macros3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "macros3", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/21_macros/macros3.rs", Edition2024) }
+   0.032377771s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="macros3"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-c931e30435544751/test-bin-macros3`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1090,8 +1090,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.037766653s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="macros3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "macros3", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/21_macros/macros3.rs", Edition2024) }
-   0.037771293s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="macros3"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-92b873c104e80361/bin-macros3`
+   0.032490705s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="macros3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "macros3", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/21_macros/macros3.rs", Edition2024) }
+   0.032493404s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="macros3"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-181c8d6663d60678/bin-macros3`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1116,8 +1116,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.037988427s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="macros4"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "macros4", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/21_macros/macros4.rs", Edition2024) }
-   0.037993287s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="macros4"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-3e4358dddc89eda0/test-bin-macros4`
+   0.032647878s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="macros4"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "macros4", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/21_macros/macros4.rs", Edition2024) }
+   0.032650724s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="macros4"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-cb06f19d164e8589/test-bin-macros4`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1142,8 +1142,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.038117609s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="macros4"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "macros4", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/21_macros/macros4.rs", Edition2024) }
-   0.038122229s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="macros4"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-791d975a150f2fa9/bin-macros4`
+   0.032738630s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="macros4"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "macros4", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/21_macros/macros4.rs", Edition2024) }
+   0.032741206s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="macros4"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-b38e1cfe549f313d/bin-macros4`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1168,8 +1168,18 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.038348213s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="modules1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "modules1", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/10_modules/modules1.rs", Edition2024) }
-   0.038353483s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="modules1"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-b972f2cf66ff2a20/test-bin-modules1`
+   0.033023836s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="modules2"}: cargo::core::compiler::fingerprint: stale: changed "/home/salivala/Projects/rustlings/exercises/10_modules/modules2.rs"
+   0.033028510s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="modules2"}: cargo::core::compiler::fingerprint:           (vs) "/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-7b1c966233f6f5de/dep-test-bin-modules2"
+   0.033031273s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="modules2"}: cargo::core::compiler::fingerprint:                FileTime { seconds: 1762574904, nanos: 377243175 } < FileTime { seconds: 1762574909, nanos: 356226730 }
+   0.033110635s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="modules2"}: cargo::core::compiler::fingerprint: fingerprint dirty for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "modules2", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/10_modules/modules2.rs", Edition2024) }
+   0.033115495s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="modules2"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleItem(ChangedFile { reference: "/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-7b1c966233f6f5de/dep-test-bin-modules2", reference_mtime: FileTime { seconds: 1762574904, nanos: 377243175 }, stale: "/home/salivala/Projects/rustlings/exercises/10_modules/modules2.rs", stale_mtime: FileTime { seconds: 1762574909, nanos: 356226730 } }))
+   0.033291652s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="modules2"}: cargo::core::compiler::fingerprint: stale: changed "/home/salivala/Projects/rustlings/exercises/10_modules/modules2.rs"
+   0.033293383s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="modules2"}: cargo::core::compiler::fingerprint:           (vs) "/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-80832e991b4ff064/dep-bin-modules2"
+   0.033294835s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="modules2"}: cargo::core::compiler::fingerprint:                FileTime { seconds: 1762574904, nanos: 469242871 } < FileTime { seconds: 1762574909, nanos: 356226730 }
+   0.033335123s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="modules2"}: cargo::core::compiler::fingerprint: fingerprint dirty for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "modules2", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/10_modules/modules2.rs", Edition2024) }
+   0.033338576s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="modules2"}: cargo::core::compiler::fingerprint:     dirty: FsStatusOutdated(StaleItem(ChangedFile { reference: "/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-80832e991b4ff064/dep-bin-modules2", reference_mtime: FileTime { seconds: 1762574904, nanos: 469242871 }, stale: "/home/salivala/Projects/rustlings/exercises/10_modules/modules2.rs", stale_mtime: FileTime { seconds: 1762574909, nanos: 356226730 } }))
+   0.034238451s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="options1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "options1", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/12_options/options1.rs", Edition2024) }
+   0.034243977s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="options1"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-e3b69b3d6bda0bb1/test-bin-options1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1194,8 +1204,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.038475715s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="modules1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "modules1", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/10_modules/modules1.rs", Edition2024) }
-   0.038480205s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="modules1"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-8a396d2fd628769c/bin-modules1`
+   0.034334951s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="options1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "options1", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/12_options/options1.rs", Edition2024) }
+   0.034338283s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="options1"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-937bfadc2cd5286f/bin-options1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1220,8 +1230,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.038695549s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="modules2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "modules2", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/10_modules/modules2.rs", Edition2024) }
-   0.038700489s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="modules2"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-4161788c24fe52b2/test-bin-modules2`
+   0.034464596s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="options2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "options2", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/12_options/options2.rs", Edition2024) }
+   0.034467941s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="options2"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-724dd955a0d3a314/test-bin-options2`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1246,8 +1256,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.038824361s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="modules2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "modules2", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/10_modules/modules2.rs", Edition2024) }
-   0.038829071s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="modules2"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-21204090d7995a2b/bin-modules2`
+   0.034536605s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="options2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "options2", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/12_options/options2.rs", Edition2024) }
+   0.034539330s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="options2"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-326816885bc88e97/bin-options2`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1272,8 +1282,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.039050775s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="modules3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "modules3", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/10_modules/modules3.rs", Edition2024) }
-   0.039055775s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="modules3"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-0ee5aeaf4706e0fc/test-bin-modules3`
+   0.034654650s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="options3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "options3", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/12_options/options3.rs", Edition2024) }
+   0.034657460s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="options3"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-3ad92d6e24210c7e/test-bin-options3`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1298,8 +1308,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.039179197s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="modules3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "modules3", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/10_modules/modules3.rs", Edition2024) }
-   0.039184417s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="modules3"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-11dd6d1571abb0a7/bin-modules3`
+   0.034721098s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="options3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "options3", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/12_options/options3.rs", Edition2024) }
+   0.034723529s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="options3"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-199978651c837e93/bin-options3`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1324,8 +1334,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.040317267s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="options1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "options1", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/12_options/options1.rs", Edition2024) }
-   0.040323007s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="options1"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-3cc34864388318ec/test-bin-options1`
+   0.035574392s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="quiz2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "quiz2", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/quizzes/quiz2.rs", Edition2024) }
+   0.035578581s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="quiz2"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-477ef9a3b500d4ec/test-bin-quiz2`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1350,8 +1360,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.040453789s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="options1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "options1", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/12_options/options1.rs", Edition2024) }
-   0.040458489s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="options1"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-3a216eb2b60b659b/bin-options1`
+   0.035728397s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="quiz3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "quiz3", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/quizzes/quiz3.rs", Edition2024) }
+   0.035731584s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="quiz3"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-6e6846b148e10e99/test-bin-quiz3`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1376,8 +1386,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.040673473s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="options2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "options2", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/12_options/options2.rs", Edition2024) }
-   0.040680743s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="options2"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-b1dcac7fe4c09742/test-bin-options2`
+   0.036686012s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="tests1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "tests1", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/17_tests/tests1.rs", Edition2024) }
+   0.036692030s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="tests1"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-c0ecc8d63c8bff38/test-bin-tests1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1402,8 +1412,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.040803235s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="options2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "options2", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/12_options/options2.rs", Edition2024) }
-   0.040807975s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="options2"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-7256c3a10970644a/bin-options2`
+   0.036849984s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="tests2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "tests2", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/17_tests/tests2.rs", Edition2024) }
+   0.036853338s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="tests2"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-50b15e57478bd604/test-bin-tests2`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1428,8 +1438,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.041027239s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="options3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "options3", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/12_options/options3.rs", Edition2024) }
-   0.041032109s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="options3"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-8ebb04a6b46ff107/test-bin-options3`
+   0.036994789s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="tests3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "tests3", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/17_tests/tests3.rs", Edition2024) }
+   0.036997590s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="tests3"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-374f6c310d1724e2/test-bin-tests3`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1454,8 +1464,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.041160111s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="options3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "options3", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/12_options/options3.rs", Edition2024) }
-   0.041164831s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="options3"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-eb1a715f39fbd0cf/bin-options3`
+   0.037135480s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="threads1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "threads1", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/20_threads/threads1.rs", Edition2024) }
+   0.037138374s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="threads1"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-429955e88c049c86/test-bin-threads1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1480,8 +1490,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.042613736s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="quiz2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "quiz2", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/quizzes/quiz2.rs", Edition2024) }
-   0.042619136s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="quiz2"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-0541b9c86ce2e400/test-bin-quiz2`
+   0.037206725s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="threads1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "threads1", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/20_threads/threads1.rs", Edition2024) }
+   0.037209568s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="threads1"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-877802632352eb1d/bin-threads1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1506,8 +1516,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.042888381s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="quiz3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "quiz3", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/quizzes/quiz3.rs", Edition2024) }
-   0.042893511s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="quiz3"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-dc2bff70be7cdf18/test-bin-quiz3`
+   0.037341694s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="threads2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "threads2", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/20_threads/threads2.rs", Edition2024) }
+   0.037345126s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="threads2"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-d6124e83f96bb7ab/test-bin-threads2`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1532,8 +1542,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.044574390s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="tests1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "tests1", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/17_tests/tests1.rs", Edition2024) }
-   0.044579850s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="tests1"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-36d1f3fe7711b73a/test-bin-tests1`
+   0.037414102s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="threads2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "threads2", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/20_threads/threads2.rs", Edition2024) }
+   0.037416840s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="threads2"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-079f4e344cd35441/bin-threads2`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1558,8 +1568,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.044846785s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="tests2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "tests2", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/17_tests/tests2.rs", Edition2024) }
-   0.044851895s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="tests2"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-8e47875c7703adb2/test-bin-tests2`
+   0.037531633s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="threads3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "threads3", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/20_threads/threads3.rs", Edition2024) }
+   0.037535781s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="threads3"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-42b8a35bb492ff30/test-bin-threads3`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1584,8 +1594,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.045114279s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="tests3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "tests3", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/17_tests/tests3.rs", Edition2024) }
-   0.045119360s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="tests3"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-01bf9682f190f4ab/test-bin-tests3`
+   0.037597390s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="threads3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "threads3", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/20_threads/threads3.rs", Edition2024) }
+   0.037600086s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="threads3"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-855dbeb85d38d1af/bin-threads3`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1610,8 +1620,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.045393474s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="threads1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "threads1", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/20_threads/threads1.rs", Edition2024) }
-   0.045398964s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="threads1"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-dd1179c967144e87/test-bin-threads1`
+   0.037713076s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="traits1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "traits1", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/15_traits/traits1.rs", Edition2024) }
+   0.037716030s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="traits1"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-e40d0ace09ad036b/test-bin-traits1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1636,8 +1646,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.045521877s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="threads1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "threads1", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/20_threads/threads1.rs", Edition2024) }
-   0.045529197s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="threads1"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-4248ec4e760c83b4/bin-threads1`
+   0.037779610s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="traits1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "traits1", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/15_traits/traits1.rs", Edition2024) }
+   0.037782089s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="traits1"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-0fb8076a53cdc3f5/bin-traits1`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1662,8 +1672,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.045744570s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="threads2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "threads2", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/20_threads/threads2.rs", Edition2024) }
-   0.045749560s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="threads2"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-975d4dffa119f60d/test-bin-threads2`
+   0.037897749s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="traits2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "traits2", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/15_traits/traits2.rs", Edition2024) }
+   0.037900530s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="traits2"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-fbba92a0fae8f4cd/test-bin-traits2`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1688,8 +1698,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.045874293s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="threads2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "threads2", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/20_threads/threads2.rs", Edition2024) }
-   0.045879013s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="threads2"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-744bf763b567833c/bin-threads2`
+   0.038039654s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="traits3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "traits3", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/15_traits/traits3.rs", Edition2024) }
+   0.038042275s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="traits3"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-a6c8201e1b05c701/test-bin-traits3`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1714,8 +1724,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.046098827s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="threads3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "threads3", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/20_threads/threads3.rs", Edition2024) }
-   0.046103867s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="threads3"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-2b13d7f3602b2bde/test-bin-threads3`
+   0.038106394s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="traits3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "traits3", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/15_traits/traits3.rs", Edition2024) }
+   0.038108970s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="traits3"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-f6d1fd41708341c6/bin-traits3`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1740,8 +1750,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.046227659s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="threads3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "threads3", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/20_threads/threads3.rs", Edition2024) }
-   0.046232339s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="threads3"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-e2f185ffe9d4cc67/bin-threads3`
+   0.038224682s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="traits4"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "traits4", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/15_traits/traits4.rs", Edition2024) }
+   0.038227555s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="traits4"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-a2ab02c88d7b4b58/test-bin-traits4`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1766,8 +1776,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.046457483s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="traits1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "traits1", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/15_traits/traits1.rs", Edition2024) }
-   0.046462753s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="traits1"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-02907b64d8d13398/test-bin-traits1`
+   0.038291086s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="traits4"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "traits4", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/15_traits/traits4.rs", Edition2024) }
+   0.038295024s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="traits4"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-f90df6e1a198af9e/bin-traits4`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1792,8 +1802,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.046591765s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="traits1"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "traits1", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/15_traits/traits1.rs", Edition2024) }
-   0.046596365s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="traits1"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-ec0ffc5aa0edfdf4/bin-traits1`
+   0.038418081s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="traits5"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "traits5", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/15_traits/traits5.rs", Edition2024) }
+   0.038420991s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="traits5"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-79753d2ac28369b9/test-bin-traits5`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1818,8 +1828,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.046809949s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="traits2"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "traits2", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/15_traits/traits2.rs", Edition2024) }
-   0.046814779s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="traits2"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-42991fe981c6b991/test-bin-traits2`
+   0.038484846s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="traits5"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "traits5", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/15_traits/traits5.rs", Edition2024) }
+   0.038487376s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="traits5"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-678c0bd36d59fc03/bin-traits5`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1844,8 +1854,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.047075653s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="traits3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "traits3", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/15_traits/traits3.rs", Edition2024) }
-   0.047080653s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="traits3"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-d7d084a1389719ec/test-bin-traits3`
+   0.038598959s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="try_from_into"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "try_from_into", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/23_conversions/try_from_into.rs", Edition2024) }
+   0.038601817s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="try_from_into"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-3e54c55c28d5d350/test-bin-try_from_into`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1870,8 +1880,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.047204316s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="traits3"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "traits3", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/15_traits/traits3.rs", Edition2024) }
-   0.047208966s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="traits3"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-529d8d4af7bbb904/bin-traits3`
+   0.038668268s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="try_from_into"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "try_from_into", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/23_conversions/try_from_into.rs", Edition2024) }
+   0.038670971s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="try_from_into"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-f87a4ac932dff243/bin-try_from_into`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1896,8 +1906,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.047435000s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="traits4"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "traits4", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/15_traits/traits4.rs", Edition2024) }
-   0.047440240s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="traits4"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-d155eba0b40852c8/test-bin-traits4`
+   0.038791686s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="using_as"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "using_as", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/23_conversions/using_as.rs", Edition2024) }
+   0.038794575s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="using_as"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-0b2033bc1c5c99e4/test-bin-using_as`
 
 Caused by:
     No such file or directory (os error 2)
@@ -1922,164 +1932,8 @@ Stack backtrace:
   16: __libc_start_call_main
   17: __libc_start_main_alias_1
   18: _start
-   0.047560682s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="traits4"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "traits4", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/15_traits/traits4.rs", Edition2024) }
-   0.047565322s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="traits4"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-a36fb9748c0f2715/bin-traits4`
-
-Caused by:
-    No such file or directory (os error 2)
-
-Stack backtrace:
-   0: <E as anyhow::context::ext::StdError>::ext_context
-   1: cargo_util::paths::read
-   2: cargo::core::compiler::fingerprint::prepare_target
-   3: cargo::core::compiler::compile
-   4: cargo::core::compiler::build_runner::BuildRunner::compile
-   5: cargo::ops::cargo_compile::compile_ws
-   6: cargo::ops::cargo_compile::compile_with_exec
-   7: cargo::ops::cargo_compile::compile
-   8: cargo::commands::check::exec
-   9: cargo::cli::Exec::exec
-  10: cargo::cli::main
-  11: cargo::main
-  12: std::sys::backtrace::__rust_begin_short_backtrace
-  13: std::rt::lang_start::{{closure}}
-  14: std::rt::lang_start_internal
-  15: main
-  16: __libc_start_call_main
-  17: __libc_start_main_alias_1
-  18: _start
-   0.047782056s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="traits5"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "traits5", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/15_traits/traits5.rs", Edition2024) }
-   0.047786906s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="traits5"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-85279199f002756c/test-bin-traits5`
-
-Caused by:
-    No such file or directory (os error 2)
-
-Stack backtrace:
-   0: <E as anyhow::context::ext::StdError>::ext_context
-   1: cargo_util::paths::read
-   2: cargo::core::compiler::fingerprint::prepare_target
-   3: cargo::core::compiler::compile
-   4: cargo::core::compiler::build_runner::BuildRunner::compile
-   5: cargo::ops::cargo_compile::compile_ws
-   6: cargo::ops::cargo_compile::compile_with_exec
-   7: cargo::ops::cargo_compile::compile
-   8: cargo::commands::check::exec
-   9: cargo::cli::Exec::exec
-  10: cargo::cli::main
-  11: cargo::main
-  12: std::sys::backtrace::__rust_begin_short_backtrace
-  13: std::rt::lang_start::{{closure}}
-  14: std::rt::lang_start_internal
-  15: main
-  16: __libc_start_call_main
-  17: __libc_start_main_alias_1
-  18: _start
-   0.047909448s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="traits5"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "traits5", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/15_traits/traits5.rs", Edition2024) }
-   0.047913958s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="traits5"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-831442ab0b00ae6c/bin-traits5`
-
-Caused by:
-    No such file or directory (os error 2)
-
-Stack backtrace:
-   0: <E as anyhow::context::ext::StdError>::ext_context
-   1: cargo_util::paths::read
-   2: cargo::core::compiler::fingerprint::prepare_target
-   3: cargo::core::compiler::compile
-   4: cargo::core::compiler::build_runner::BuildRunner::compile
-   5: cargo::ops::cargo_compile::compile_ws
-   6: cargo::ops::cargo_compile::compile_with_exec
-   7: cargo::ops::cargo_compile::compile
-   8: cargo::commands::check::exec
-   9: cargo::cli::Exec::exec
-  10: cargo::cli::main
-  11: cargo::main
-  12: std::sys::backtrace::__rust_begin_short_backtrace
-  13: std::rt::lang_start::{{closure}}
-  14: std::rt::lang_start_internal
-  15: main
-  16: __libc_start_call_main
-  17: __libc_start_main_alias_1
-  18: _start
-   0.048130762s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="try_from_into"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "try_from_into", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/23_conversions/try_from_into.rs", Edition2024) }
-   0.048135772s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="try_from_into"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-50a8563eba2ffb4a/test-bin-try_from_into`
-
-Caused by:
-    No such file or directory (os error 2)
-
-Stack backtrace:
-   0: <E as anyhow::context::ext::StdError>::ext_context
-   1: cargo_util::paths::read
-   2: cargo::core::compiler::fingerprint::prepare_target
-   3: cargo::core::compiler::compile
-   4: cargo::core::compiler::build_runner::BuildRunner::compile
-   5: cargo::ops::cargo_compile::compile_ws
-   6: cargo::ops::cargo_compile::compile_with_exec
-   7: cargo::ops::cargo_compile::compile
-   8: cargo::commands::check::exec
-   9: cargo::cli::Exec::exec
-  10: cargo::cli::main
-  11: cargo::main
-  12: std::sys::backtrace::__rust_begin_short_backtrace
-  13: std::rt::lang_start::{{closure}}
-  14: std::rt::lang_start_internal
-  15: main
-  16: __libc_start_call_main
-  17: __libc_start_main_alias_1
-  18: _start
-   0.048244604s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="try_from_into"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "try_from_into", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/23_conversions/try_from_into.rs", Edition2024) }
-   0.048249144s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="try_from_into"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-63fb3cfbf63e86de/bin-try_from_into`
-
-Caused by:
-    No such file or directory (os error 2)
-
-Stack backtrace:
-   0: <E as anyhow::context::ext::StdError>::ext_context
-   1: cargo_util::paths::read
-   2: cargo::core::compiler::fingerprint::prepare_target
-   3: cargo::core::compiler::compile
-   4: cargo::core::compiler::build_runner::BuildRunner::compile
-   5: cargo::ops::cargo_compile::compile_ws
-   6: cargo::ops::cargo_compile::compile_with_exec
-   7: cargo::ops::cargo_compile::compile
-   8: cargo::commands::check::exec
-   9: cargo::cli::Exec::exec
-  10: cargo::cli::main
-  11: cargo::main
-  12: std::sys::backtrace::__rust_begin_short_backtrace
-  13: std::rt::lang_start::{{closure}}
-  14: std::rt::lang_start_internal
-  15: main
-  16: __libc_start_call_main
-  17: __libc_start_main_alias_1
-  18: _start
-   0.048471898s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="using_as"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: true }/TargetInner { name: "using_as", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/23_conversions/using_as.rs", Edition2024) }
-   0.048476908s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="using_as"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-2c248ef71a363f2a/test-bin-using_as`
-
-Caused by:
-    No such file or directory (os error 2)
-
-Stack backtrace:
-   0: <E as anyhow::context::ext::StdError>::ext_context
-   1: cargo_util::paths::read
-   2: cargo::core::compiler::fingerprint::prepare_target
-   3: cargo::core::compiler::compile
-   4: cargo::core::compiler::build_runner::BuildRunner::compile
-   5: cargo::ops::cargo_compile::compile_ws
-   6: cargo::ops::cargo_compile::compile_with_exec
-   7: cargo::ops::cargo_compile::compile
-   8: cargo::commands::check::exec
-   9: cargo::cli::Exec::exec
-  10: cargo::cli::main
-  11: cargo::main
-  12: std::sys::backtrace::__rust_begin_short_backtrace
-  13: std::rt::lang_start::{{closure}}
-  14: std::rt::lang_start_internal
-  15: main
-  16: __libc_start_call_main
-  17: __libc_start_main_alias_1
-  18: _start
-   0.048599840s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="using_as"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "using_as", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/23_conversions/using_as.rs", Edition2024) }
-   0.048604560s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="using_as"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-2a9d1acddd44e8a6/bin-using_as`
+   0.038856597s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="using_as"}: cargo::core::compiler::fingerprint: fingerprint error for exercises v0.0.0 (/home/salivala/Projects/rustlings)/Check { test: false }/TargetInner { name: "using_as", doc: true, ..: with_path("/home/salivala/Projects/rustlings/exercises/23_conversions/using_as.rs", Edition2024) }
+   0.038859170s  INFO prepare_target{force=false package_id=exercises v0.0.0 (/home/salivala/Projects/rustlings) target="using_as"}: cargo::core::compiler::fingerprint:     err: failed to read `/home/salivala/Projects/rustlings/target/debug/.fingerprint/exercises-94517c768fe87d59/bin-using_as`
 
 Caused by:
     No such file or directory (os error 2)
@@ -2105,83 +1959,79 @@ Stack backtrace:
   17: __libc_start_main_alias_1
   18: _start
     Checking exercises v0.0.0 (/home/salivala/Projects/rustlings)
-error: could not compile `exercises` (bin "errors2") due to 1 previous error
-warning: build failed, waiting for other jobs to finish...
 error: could not compile `exercises` (bin "lifetimes3") due to 2 previous errors
-error: could not compile `exercises` (bin "macros4" test) due to 1 previous error
-error: could not compile `exercises` (bin "errors3") due to 1 previous error
-error: could not compile `exercises` (bin "modules2") due to 2 previous errors
-error: could not compile `exercises` (bin "modules2" test) due to 2 previous errors
-error: could not compile `exercises` (bin "macros2" test) due to 1 previous error; 1 warning emitted
-error: could not compile `exercises` (bin "traits1" test) due to 1 previous error
-error: could not compile `exercises` (bin "iterators4" test) due to 1 previous error
-error: could not compile `exercises` (bin "options2" test) due to 5 previous errors
-error: could not compile `exercises` (bin "errors2" test) due to 1 previous error
-error: could not compile `exercises` (bin "tests2" test) due to 4 previous errors; 1 warning emitted
-error: could not compile `exercises` (bin "tests3" test) due to 2 previous errors; 4 warnings emitted
-error: could not compile `exercises` (bin "arc1") due to 2 previous errors
+warning: build failed, waiting for other jobs to finish...
 error: could not compile `exercises` (bin "iterators1" test) due to 1 previous error; 4 warnings emitted
-error: could not compile `exercises` (bin "traits5") due to 3 previous errors
-error: could not compile `exercises` (bin "using_as" test) due to 1 previous error
-error: could not compile `exercises` (bin "traits4") due to 5 previous errors
-error: could not compile `exercises` (bin "try_from_into") due to 3 previous errors
-error: could not compile `exercises` (bin "macros4") due to 1 previous error
-error: could not compile `exercises` (bin "quiz3" test) due to 1 previous error
-error: could not compile `exercises` (bin "iterators3" test) due to 2 previous errors; 4 warnings emitted
-error: could not compile `exercises` (bin "from_str") due to 1 previous error
-error: could not compile `exercises` (bin "options1" test) due to 2 previous errors
-error: could not compile `exercises` (bin "options3") due to 1 previous error
-error: could not compile `exercises` (bin "as_ref_mut") due to 2 previous errors; 1 warning emitted
-error: could not compile `exercises` (bin "threads2" test) due to 1 previous error; 1 warning emitted
-error: could not compile `exercises` (bin "cow1" test) due to 3 previous errors
-error: could not compile `exercises` (bin "traits3") due to 2 previous errors
-error: could not compile `exercises` (bin "hashmaps1" test) due to 2 previous errors
-error: could not compile `exercises` (bin "modules3") due to 2 previous errors
-error: could not compile `exercises` (bin "iterators4") due to 1 previous error
-error: could not compile `exercises` (bin "iterators5" test) due to 2 previous errors
-error: could not compile `exercises` (bin "traits5" test) due to 3 previous errors
-error: could not compile `exercises` (bin "generics2" test) due to 2 previous errors
-error: could not compile `exercises` (bin "macros3" test) due to 1 previous error; 1 warning emitted
-error: could not compile `exercises` (bin "errors3" test) due to 1 previous error
-error: could not compile `exercises` (bin "box1" test) due to 3 previous errors
-error: could not compile `exercises` (bin "lifetimes2" test) due to 1 previous error
-error: could not compile `exercises` (bin "lifetimes1" test) due to 1 previous error
-error: could not compile `exercises` (bin "threads1" test) due to 1 previous error
-error: could not compile `exercises` (bin "traits2" test) due to 1 previous error
-error: could not compile `exercises` (bin "as_ref_mut" test) due to 2 previous errors; 1 warning emitted
-error: could not compile `exercises` (bin "macros3") due to 1 previous error; 1 warning emitted
-error: could not compile `exercises` (bin "iterators2") due to 2 previous errors; 1 warning emitted
-error: could not compile `exercises` (bin "tests1" test) due to 2 previous errors
-error: could not compile `exercises` (bin "hashmaps1") due to 2 previous errors
-error: could not compile `exercises` (bin "options3" test) due to 1 previous error
-error: could not compile `exercises` (bin "quiz2" test) due to 1 previous error; 1 warning emitted
-error: could not compile `exercises` (bin "using_as") due to 1 previous error
-error: could not compile `exercises` (bin "try_from_into" test) due to 3 previous errors
-error: could not compile `exercises` (bin "traits3" test) due to 2 previous errors
-error: could not compile `exercises` (bin "errors1" test) due to 2 previous errors
 error: could not compile `exercises` (bin "traits1") due to 1 previous error
 error: could not compile `exercises` (bin "threads1") due to 1 previous error
-error: could not compile `exercises` (bin "lifetimes1") due to 1 previous error
-error: could not compile `exercises` (bin "from_str" test) due to 1 previous error
-error: could not compile `exercises` (bin "from_into" test) due to 1 previous error
-error: could not compile `exercises` (bin "threads3" test) due to 1 previous error
-error: could not compile `exercises` (bin "arc1" test) due to 2 previous errors
-error: could not compile `exercises` (bin "box1") due to 3 previous errors
-error: could not compile `exercises` (bin "modules3" test) due to 2 previous errors
-error: could not compile `exercises` (bin "lifetimes2") due to 1 previous error
-error: could not compile `exercises` (bin "threads3") due to 1 previous error
-error: could not compile `exercises` (bin "iterators2" test) due to 2 previous errors; 1 warning emitted
-error: could not compile `exercises` (bin "options2") due to 3 previous errors
-error: could not compile `exercises` (bin "macros1" test) due to 1 previous error; 1 warning emitted
-error: could not compile `exercises` (bin "lifetimes3" test) due to 2 previous errors
-error: could not compile `exercises` (bin "macros1") due to 1 previous error; 1 warning emitted
-error: could not compile `exercises` (bin "macros2") due to 1 previous error; 1 warning emitted
-error: could not compile `exercises` (bin "threads2") due to 1 previous error; 1 warning emitted
-error: could not compile `exercises` (bin "generics1") due to 1 previous error
-error: could not compile `exercises` (bin "options1") due to 1 previous error
-error: could not compile `exercises` (bin "from_into") due to 1 previous error
-error: could not compile `exercises` (bin "iterators5") due to 2 previous errors
-error: could not compile `exercises` (bin "errors5") due to 3 previous errors
+error: could not compile `exercises` (bin "hashmaps1") due to 2 previous errors
+error: could not compile `exercises` (bin "traits5") due to 3 previous errors
+error: could not compile `exercises` (bin "macros2" test) due to 1 previous error; 1 warning emitted
+error: could not compile `exercises` (bin "traits1" test) due to 1 previous error
 error: could not compile `exercises` (bin "traits4" test) due to 5 previous errors
-error: could not compile `exercises` (bin "errors5" test) due to 3 previous errors
+error: could not compile `exercises` (bin "options2" test) due to 5 previous errors
+error: could not compile `exercises` (bin "traits3") due to 2 previous errors
+error: could not compile `exercises` (bin "lifetimes1") due to 1 previous error
+error: could not compile `exercises` (bin "tests1" test) due to 2 previous errors
+error: could not compile `exercises` (bin "generics2" test) due to 2 previous errors
+error: could not compile `exercises` (bin "iterators5" test) due to 2 previous errors
+error: could not compile `exercises` (bin "threads2") due to 1 previous error; 1 warning emitted
+error: could not compile `exercises` (bin "macros2") due to 1 previous error; 1 warning emitted
+error: could not compile `exercises` (bin "macros4") due to 1 previous error
+error: could not compile `exercises` (bin "threads3") due to 1 previous error
+error: could not compile `exercises` (bin "errors3" test) due to 1 previous error
 error: could not compile `exercises` (bin "generics1" test) due to 1 previous error
+error: could not compile `exercises` (bin "from_str") due to 1 previous error
+error: could not compile `exercises` (bin "macros4" test) due to 1 previous error
+error: could not compile `exercises` (bin "lifetimes1" test) due to 1 previous error
+error: could not compile `exercises` (bin "errors2") due to 1 previous error
+error: could not compile `exercises` (bin "errors3") due to 1 previous error
+error: could not compile `exercises` (bin "from_into") due to 1 previous error
+error: could not compile `exercises` (bin "try_from_into") due to 3 previous errors
+error: could not compile `exercises` (bin "options3" test) due to 1 previous error
+error: could not compile `exercises` (bin "tests3" test) due to 2 previous errors; 4 warnings emitted
+error: could not compile `exercises` (bin "box1") due to 3 previous errors
+error: could not compile `exercises` (bin "iterators5") due to 2 previous errors
+error: could not compile `exercises` (bin "from_str" test) due to 1 previous error
+error: could not compile `exercises` (bin "generics1") due to 1 previous error
+error: could not compile `exercises` (bin "macros1") due to 1 previous error; 1 warning emitted
+error: could not compile `exercises` (bin "threads2" test) due to 1 previous error; 1 warning emitted
+error: could not compile `exercises` (bin "macros3") due to 1 previous error; 1 warning emitted
+error: could not compile `exercises` (bin "iterators4" test) due to 1 previous error
+error: could not compile `exercises` (bin "errors5") due to 3 previous errors
+error: could not compile `exercises` (bin "macros3" test) due to 1 previous error; 1 warning emitted
+error: could not compile `exercises` (bin "as_ref_mut") due to 2 previous errors; 1 warning emitted
+error: could not compile `exercises` (bin "lifetimes2") due to 1 previous error
+error: could not compile `exercises` (bin "options1") due to 1 previous error
+error: could not compile `exercises` (bin "using_as" test) due to 1 previous error
+error: could not compile `exercises` (bin "macros1" test) due to 1 previous error; 1 warning emitted
+error: could not compile `exercises` (bin "tests2" test) due to 4 previous errors; 1 warning emitted
+error: could not compile `exercises` (bin "arc1" test) due to 2 previous errors
+error: could not compile `exercises` (bin "iterators3" test) due to 2 previous errors; 4 warnings emitted
+error: could not compile `exercises` (bin "threads1" test) due to 1 previous error
+error: could not compile `exercises` (bin "as_ref_mut" test) due to 2 previous errors; 1 warning emitted
+error: could not compile `exercises` (bin "iterators4") due to 1 previous error
+error: could not compile `exercises` (bin "box1" test) due to 3 previous errors
+error: could not compile `exercises` (bin "threads3" test) due to 1 previous error
+error: could not compile `exercises` (bin "lifetimes3" test) due to 2 previous errors
+error: could not compile `exercises` (bin "from_into" test) due to 1 previous error
+error: could not compile `exercises` (bin "options1" test) due to 2 previous errors
+error: could not compile `exercises` (bin "iterators2") due to 2 previous errors; 1 warning emitted
+error: could not compile `exercises` (bin "lifetimes2" test) due to 1 previous error
+error: could not compile `exercises` (bin "options2") due to 3 previous errors
+error: could not compile `exercises` (bin "traits5" test) due to 3 previous errors
+error: could not compile `exercises` (bin "quiz2" test) due to 1 previous error; 1 warning emitted
+error: could not compile `exercises` (bin "errors5" test) due to 3 previous errors
+error: could not compile `exercises` (bin "try_from_into" test) due to 3 previous errors
+error: could not compile `exercises` (bin "errors2" test) due to 1 previous error
+error: could not compile `exercises` (bin "options3") due to 1 previous error
+error: could not compile `exercises` (bin "hashmaps1" test) due to 2 previous errors
+error: could not compile `exercises` (bin "quiz3" test) due to 1 previous error
+error: could not compile `exercises` (bin "arc1") due to 2 previous errors
+error: could not compile `exercises` (bin "errors1" test) due to 2 previous errors
+error: could not compile `exercises` (bin "using_as") due to 1 previous error
+error: could not compile `exercises` (bin "cow1" test) due to 3 previous errors
+error: could not compile `exercises` (bin "traits3" test) due to 2 previous errors
+error: could not compile `exercises` (bin "iterators2" test) due to 2 previous errors; 1 warning emitted
+error: could not compile `exercises` (bin "traits4") due to 5 previous errors
+error: could not compile `exercises` (bin "traits2" test) due to 1 previous error
